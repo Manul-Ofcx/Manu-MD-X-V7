@@ -11,7 +11,7 @@ module.exports = {
   "ANTI_BAD": "false",
   "ANTI_BOT": "false",
   "ANTI_CALL": "false",
-  "ANTI_LINK": "false",
+  "ANTI_LINK": false,
   "ANTI_PHOTO": "false",
   "ANTI_STICKER": "false",
   "ANTI_DELETE": true,
